@@ -11,4 +11,4 @@
 ### Api:
 **5.0.0 +**
 
-credits: [![](https://github.com/rianmlna)]
+credits: ***[RianDev](https://github.com/rianmlna)***
