@@ -1,2 +1,7 @@
-# SimpleGameMode
-an simple gamemode plugin for pocketmine
+# SimpleGameMode Plugin Pocketmine
+
+### Commands:
+```/gma / /gma <player>```
+
+### Api:
+5.0.0+
