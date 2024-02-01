@@ -1,4 +1,4 @@
-# SimpleGameMode Plugin Pocketmine
+# SimpleGameMode Plugin
 
 ### Commands:
 ```/gma / /gma <player>```
