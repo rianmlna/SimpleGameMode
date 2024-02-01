@@ -1,8 +1,0 @@
-build-by-default: true
-branches:
-- main
-projects:
-  SimpleGameMode:
-    path: ""
-    icon: icon.png
-...
