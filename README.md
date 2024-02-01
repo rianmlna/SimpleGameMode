@@ -5,7 +5,19 @@
 ```/gmc```
 ```/gms```
 ```/gmspc```
-## Example command use:
+### Permission:
+```
+permissions:
+  gms.cmd:
+    default: op
+  gmc.cmd:
+    default: op
+  gma.cmd:
+    default: op
+  gmspc.cmd:
+    default: op
+```
+### Example command use:
 ```/gma```
 ```/gma Steve```
 ### Api:
