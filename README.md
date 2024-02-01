@@ -1,12 +1,10 @@
 # SimpleGameMode
 **a simple gamemode plugin pocketmine**
 ### Commands:
-```
-/gma
-/gmc
-/gms
-/gmspc
-````
+```/gma```
+```/gmc```
+```/gms```
+```/gmspc```
 ## Example command use:
 ```/gma```
 ```/gma Steve```
