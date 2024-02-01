@@ -1,6 +1,6 @@
 # SimpleGameMode
 **a simple gamemode plugin pocketmine**
-[SimpleGameMode](https://user-images.githubusercontent.com/24ca027cf45832e306e9d6c7dbdfce6951fb75a8/icon.png)
+[SimpleGameMode](https://user-images.githubusercontent/icon.png)
 ### Commands:
 ```/gma```
 ```/gmc```
