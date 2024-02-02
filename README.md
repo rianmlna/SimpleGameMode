@@ -1,4 +1,5 @@
 # SimpleGameMode
+[![](https://poggit.pmmp.io/shield.state/SimpleGameMode)](https://poggit.pmmp.io/p/SimpleGameMode)
 **a simple gamemode plugin pocketmine**
 ### Commands:
 ```/gma```
